@@ -1,16 +1,32 @@
-# React + Vite
+# 🌟 Bir Saatini Bağışla (Donate One Hour)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **"Don't donate money, donate your time."**
 
-Currently, two official plugins are available:
+**Bir Saatini Bağışla** is a modern volunteering platform that digitizes acts of kindness by bringing people together in real-time. Instead of monetary donations, users share one hour of their skills or time with those in need.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
 
-## React Compiler
+- 💬 **Real-time Messaging:** A secure, instant chat system between volunteers and providers.
+- 🏆 **Kindness League (Leaderboard):** A dynamic ranking system to honor the heroes who donate the most time.
+- 📊 **Impact Dashboard:** A sleek profile card showing individual acts of kindness, volunteer level, and progress towards the next rank.
+- 🌓 **Dark/Light Mode:** A premium user interface with full dark mode support for an enhanced experience.
+- 🛡️ **Moderation & Safety:** Advanced tools for providers to verify successful donations and prevent misuse.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Backend:** [Firebase](https://firebase.google.com/) (Firestore, Authentication, Hosting)
+- **Icons:** [Lucide React](https://lucide.dev/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Quick Start
+
+To run this project locally:
+
+1. Clone the repo: `git clone https://github.com/moodybluesmix/bir-saat-bagis.git`
+2. Install dependencies: `npm install`
+3. Start the dev server: `npm run dev`
+
+---
+
+Developed with ❤️ to make the world a better place, one hour at a time.
